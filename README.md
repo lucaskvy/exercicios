@@ -1,2 +1,2 @@
 # exercicios
-exercícios de lógica
+exercícios de lógica em C
